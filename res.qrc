@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/f">
+        <file>f/delete.png</file>
+        <file>f/edit.jpg</file>
+        <file>f/pause.png</file>
+        <file>f/player.png</file>
+        <file>f/show.jpg</file>
+        <file>f/timg.jpg</file>
+    </qresource>
+</RCC>
